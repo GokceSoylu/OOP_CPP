@@ -1,5 +1,6 @@
 # virtual
 branh denemesi için değişiklik yapılmıştır 
+jk
 
 Şimdi dostum burada virtual functiun'dan bahsetmeyeceğim. istediğin polimprphism/virtual funcs ise [gidiniz](https://github.com/NecmiyeSoylu/cpp_examples/blob/master/oop/polimorphism_notu.md)
 
