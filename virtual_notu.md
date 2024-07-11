@@ -1,5 +1,6 @@
 # virtual
-
+ 
+ 
 Şimdi dostum burada virtual functiun'dan bahsetmeyeceğim. istediğin polimprphism/virtual funcs ise [gidiniz](https://github.com/NecmiyeSoylu/cpp_examples/blob/master/oop/polimorphism_notu.md)
 
 virtual'ı n bir başka kullanım şekli sınıfı virtual yapmaktır. multiinhertance sırasında yaşadığımız bir sorun var. iki tane 
